@@ -6,3 +6,6 @@ As of 2024, the accessibility of Bike Share Toronto has reached new heights, wit
 
 
 The purpose of this project is to analyze the bike share dataset, and to understand the impact of various factors on bike-share demand and usage in Toronto. This project is divided into two parts. The first part, covered in this article, focuses on analyzing ridership patterns to identify key factors driving bike-share demand in Toronto. The second part will explore station-level analysis, comparing charging and regular stations, and how they align with TTC stations.
+
+### Data Sources
+For my analysis, I used the Bike Share Toronto Ridership Data, which is published by the City of Toronto. The dataset is available from the City of Toronto Open Data Portal, which can be accessed here.
