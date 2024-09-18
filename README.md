@@ -1,4 +1,4 @@
-# Toronto_Bikeshare
+## Toronto_Bikeshare
 In 2011, Toronto embarked on an ambitious project to enhance its urban mobility and foster a greener, more accessible cityscape. This vision gave birth to Bike Share Toronto, a system designed not just as an alternative to congested commutes but as a key part in the city's broader environmental and transportation strategy. By offering a network of easily accessible bikes, Toronto aimed to reduce car usage, lower carbon emissions, and promote healthier living. Today, this service is more than just a convenience; it's a vital part of Toronto’s commitment to sustainable urban development, demonstrating the city's dedication to a healthier, more dynamic urban environment. 
 
 
@@ -7,7 +7,11 @@ As of 2024, the accessibility of Bike Share Toronto has reached new heights, wit
 
 The purpose of this project is to analyze the bike share dataset, and to understand the impact of various factors on bike-share demand and usage in Toronto. This project is divided into two parts. The first part, covered in this article, focuses on analyzing ridership patterns to identify key factors driving bike-share demand in Toronto. The second part will explore station-level analysis, comparing charging and regular stations, and how they align with TTC stations.
 
-### Data Sources
+### Source Data
 For my analysis, I used the Bike Share Toronto Ridership Data, which is published by the City of Toronto. The dataset is available from the City of Toronto Open Data Portal, which can be accessed here : https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
 
+#### Download Data
+All the folder structures and data files required for performing the analysis done in `Bikeshare_Toronto_Analysis.ipynb` are package into a `.zip` file which can be downloaded from: [Bikeshare_Repo_Data](https://drive.google.com/drive/folders/1qUo-JQse1EKDvcAJHuVGsQ7ETDS3x0m8?usp=sharing) (Hosted on Google Drive)
 
+#### Quick Start
+Once the `.zip` file is downloaded, extract all into your target directory. Open `Bikeshare_Toronto_Analysis.ipynb` and follow the step-by-step analysis detailed in the notebook.
