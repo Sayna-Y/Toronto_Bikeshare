@@ -9,7 +9,7 @@ The purpose of this project is to analyze the bike share dataset, and to underst
 
 ## Source Data
 For my analysis, I used the following datasets:
-1. Bike Share Toronto Ridership Data, which is published by the City of Toronto. This dataset includes anonymized historical ridership data from January 2019 to December 2023. The dataset is available from the City of Toronto Open Data Portal, which can be accessed here : https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
+1. Bike Share Toronto Ridership Data: This dataset includes anonymized historical ridership data from January 2019 to December 2023. The dataset is available from the City of Toronto Open Data Portal, which can be accessed here : https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
 2. Toronto Bikeways Data: The Toronto Bikeways Dataset provides detailed information on the city's cycling network, including shared and dedicated routes such as cycle tracks, bicycle lanes, neighborhood routes, multi-use trails, and signed cycling routes. The dataset is available from the City of Toronto's Open Data Portal, which can be accessed here: https://open.toronto.ca/dataset/bikeways/
 3. Station Level Data: For station-level analysis and understanding e-bike distribution, I utilized datasets available from the City of Toronto Open Data Portal, accessible via GBFS (General Bikeshare Feed Specification) JSON feeds. This dataset can be accessed here: https://open.toronto.ca/dataset/bike-share-toronto/
 4. TTC Subway Shapefiles: To visualize bike stations in relation to public transit infrastructure, I utilized the TTC Subway Shapefiles, accessible from the City of Toronto Open Data Portal: https://open.toronto.ca/dataset/ttc-subway-shapefiles/
