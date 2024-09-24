@@ -5,7 +5,13 @@ In 2011, Toronto embarked on an ambitious project to enhance its urban mobility 
 As of 2024, the accessibility of Bike Share Toronto has reached new heights, with over 800 stations around town. In a significant move to bolster this initiative, Toronto has expanded its e-bike program, transitioning from a pilot to a permanent fixture within the city's transit options. By the end of 2022, the e-bike fleet had expanded from 300 to 525, supported by 15 new e-stations. This growth is set to continue, with plans to increase the fleet to 2,000 e-bikes and add 100 more e-stations by 2025.
 
 
-The purpose of this project is to analyze the bike share dataset, and to understand the impact of various factors on bike-share demand and usage in Toronto. This project is divided into two parts. The first part, covered in this article, focuses on analyzing ridership patterns to identify key factors driving bike-share demand in Toronto. The second part will explore station-level analysis, comparing charging and regular stations, and how they align with TTC stations.
+The purpose of this project is to analyze the bike share dataset, and to understand the impact of various factors on bike-share demand and usage in Toronto. This project is divided into three parts.
+
+**Part 1** focuses on analyzing ridership patterns to identify key factors that influence bike-share demand in Toronto.
+
+**Part 2** delves into station-level analysis, comparing the usage patterns of charging and regular stations, and examining their proximity to TTC stations to assess how well they are integrated with public transit.
+
+**Part 3** involves building a chatbot using GPT-4o to answer detailed questions about the Bike Share Toronto ridership data, providing an interactive tool for exploring and understanding the dataset.
 
 ## Source Data
 For my analysis, I used the following datasets:
@@ -18,7 +24,7 @@ For my analysis, I used the following datasets:
 
 
 #### Download Data
-All the folder structures and data files required for performing the analysis done in `Bikeshare_Toronto_Analysis.ipynb` are package into a `.zip` file which can be downloaded from: [Bikeshare_Repo_Data](https://drive.google.com/drive/folders/1qUo-JQse1EKDvcAJHuVGsQ7ETDS3x0m8?usp=sharing) (Hosted on Google Drive)
+All the folder structures and data files required for performing the analysis done in `Bikeshare_Toronto_Analysis.ipynb` and are package into a `.zip` file which can be downloaded from: [Bikeshare_Repo_Data](https://drive.google.com/drive/folders/1qUo-JQse1EKDvcAJHuVGsQ7ETDS3x0m8?usp=sharing) (Hosted on Google Drive)
 
 
 ## Quick Start
