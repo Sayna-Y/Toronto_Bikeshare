@@ -24,8 +24,8 @@ For my analysis, I used the following datasets:
 
 
 #### Download Data
-All the folder structures and data files required for performing the analysis done in `Bikeshare_Toronto_Analysis.ipynb` and 'Bike_Share_Toronto_Chatbot.ipynb' are package into a `.zip` file which can be downloaded from: [Bikeshare_Repo_Data](https://drive.google.com/drive/folders/1qUo-JQse1EKDvcAJHuVGsQ7ETDS3x0m8?usp=sharing) (Hosted on Google Drive)
+All the folder structures and data files required for performing the analysis done in `Bikeshare_Toronto_Analysis.ipynb` and `Bike_Share_Toronto_Chatbot.ipynb` are package into a `.zip` file which can be downloaded from: [Bikeshare_Repo_Data](https://drive.google.com/drive/folders/1qUo-JQse1EKDvcAJHuVGsQ7ETDS3x0m8?usp=sharing) (Hosted on Google Drive)
 
 
 ## Quick Start
-Once the `.zip` file is downloaded, extract all into your target directory. Open `Bikeshare_Toronto_Analysis.ipynb` or 'Bike_Share_Toronto_Chatbot.ipynb' and follow the step-by-step analysis detailed in the notebook.
+Once the `.zip` file is downloaded, extract all into your target directory. Open `Bikeshare_Toronto_Analysis.ipynb` or `Bike_Share_Toronto_Chatbot.ipynb` and follow the step-by-step analysis detailed in the notebook.
